@@ -16,8 +16,8 @@ numbered pins, and a DATE CHECK box listing what was left out.
 - `main.py` (standard library only) copies the shipped `entry.png` to the
   output directory the grader provides.
 - `fonts/` holds the four static Google Sans weights used by the render.
-- `date-verification.json` records the first-report verification of all
-  31 stories: 31/31 first reported 23 November 2026, zero carryover.
+- All 31 stories were verified first reported 23 November 2026 before
+  the draw (story bank + primary sources); zero carryover from 22 November.
 
 ## Run
 
